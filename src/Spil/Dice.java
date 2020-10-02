@@ -3,7 +3,7 @@ package Spil;
 import java.util.Random;
 
 public class Dice {
-
+h
     public static void main(String[] args) {
         Random r = new Random();
         int førsteresult = r.nextInt(6);
