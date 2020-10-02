@@ -13,6 +13,6 @@ public class Dice {
         System.out.println("Du rullede " + result);
         System.out.println("Du rullede " + result2);
         int sum = result + result2;
-        System.out.println("Samlede resultat " + sum);
+        System.out.println("Samlede resultat  " + sum);
        }
     }
